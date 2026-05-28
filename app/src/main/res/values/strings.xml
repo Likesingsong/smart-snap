@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartSnap</string>
+    <string name="camera_permission_required">需要相机权限</string>
+    <string name="camera_permission_message">SmartSnap 需要使用相机来拍照识别物品，请授予相机权限以继续使用</string>
+    <string name="grant_permission">授予权限</string>
+    <string name="capture_photo">拍照</string>
+    <string name="recognizing">正在识别…</string>
+    <string name="recognition_result">识别结果</string>
+    <string name="recognition_failed">识别失败</string>
+    <string name="retry">重试</string>
+    <string name="photo_capture_failed">拍照失败，请重试</string>
+    <string name="permission_denied">相机权限被拒绝，请在设置中开启</string>
+</resources>
